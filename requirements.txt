@@ -1,0 +1,15 @@
+# DnD_clustering/.ipynb_checkpoints/The Dungeon Master's Guide to Clustering-checkpoint.ipynb: 4,8
+# DnD_clustering/The Dungeon Master's Guide to Clustering.ipynb: 4,8
+matplotlib == 3.3.3
+
+# DnD_clustering/.ipynb_checkpoints/The Dungeon Master's Guide to Clustering-checkpoint.ipynb: 3
+# DnD_clustering/The Dungeon Master's Guide to Clustering.ipynb: 3
+numpy == 1.19.5
+
+# DnD_clustering/.ipynb_checkpoints/The Dungeon Master's Guide to Clustering-checkpoint.ipynb: 5
+# DnD_clustering/The Dungeon Master's Guide to Clustering.ipynb: 5
+pandas == 1.1.4
+
+# DnD_clustering/.ipynb_checkpoints/The Dungeon Master's Guide to Clustering-checkpoint.ipynb: 6
+# DnD_clustering/The Dungeon Master's Guide to Clustering.ipynb: 6
+seaborn == 0.11.1
